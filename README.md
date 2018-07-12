@@ -1,3 +1,3 @@
 # test-git
-test project fot git commans
+test project for git commands
 such as push & pull
